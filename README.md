@@ -14,4 +14,4 @@ The corpus will also be available to freely download from the "Share your LRs" i
 	3. Serbian.tags - This file contains tags to identify whether a given sentence is regenderable or neutral.
 
 
-If you use this corpus, please cite our LREC '2022 paper titled _Leveraging Pre-trained Language Models for Gender Debiasing_. 
+If you use this corpus, please cite our LREC '2022 paper titled _Leveraging Pre-trained Language Models for Gender Debiasing_ by Nishtha Jain, Maja Popović, Declan Groves and Lucia Specia. 
