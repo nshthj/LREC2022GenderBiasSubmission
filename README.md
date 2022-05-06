@@ -1,4 +1,4 @@
-# LREC2022GenderBiasSubmission
+# LREC 2022 Gender Bias Submission
 
 This repository contains test sets, namely "Spanish 3" and "Serbian", used in the paper _Leveraging Pre-trained Language Models for Gender Debiasing_ to evaluate the BERT based approach to generate gender variants. 
 The corpus will also be available to freely download from the "Share your LRs" initiative by LREC. 
